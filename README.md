@@ -1,0 +1,2 @@
+# MiRepo
+Ejercicio para minicurso
